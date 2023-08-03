@@ -4,7 +4,8 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 - **Simple CRUD (Library Book Stock Study Case)**
  
-  A simple Create Read Update Delete (CRUD) application for managing a library book stock, built using Python.<br>
+  A simple Create Read Update Delete (CRUD) application for managing a library book stock, built using Python.
+  <br>
 
 - **Vehicle Classification for Trans Jakarta Advertising**
  
