@@ -3,6 +3,7 @@
 Welcome to my Data Science Portfolio! This repository showcases a collection of diverse projects that demonstrate my skills and expertise in data science. Below are the projects included in this portfolio:
 
 - **Simple CRUD (Library Book Stock Study Case)**
+ 
  A simple Create Read Update Delete (CRUD) application for managing a library book stock, built using Python.
 
 - **Vehicle Classification for Trans Jakarta Advertising**
