@@ -15,6 +15,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
   
   A Jupyter Notebook project exploring factors beyond GDP, such as Gini Ratio and other parameters.
 
+
 - **Saudi Used Cars Price Prediction**
   
   Predicting used car prices in Saudi Arabia using machine learning models.
