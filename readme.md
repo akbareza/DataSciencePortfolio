@@ -25,7 +25,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 Feel free to explore the projects and their corresponding Jupyter Notebooks or scripts to gain insights into my data science work. If you have any questions, feedback, or would like to discuss any aspect of these projects, please don't hesitate to reach out.
 
 ## Let's Connect:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- LinkedIn: [Akbareza Muhammad](https://www.linkedin.com/in/akbareza-muhammad/)
 - Email: akbarezamuhammad10@gmail.com
 
 Thank you for visiting my portfolio repository, and I hope you find these projects informative and indicative of my passion for data science!
