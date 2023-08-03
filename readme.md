@@ -1,11 +1,10 @@
 # Data Science Portfolio
-
+---
 Welcome to my Data Science Portfolio! This repository showcases a collection of diverse projects that demonstrate my skills and expertise in data science. Below are the projects included in this portfolio:
 
 - **Simple CRUD (Library Book Stock Study Case)**
  
   A simple Create Read Update Delete (CRUD) application for managing a library book stock, built using Python.
-  <br>
 
 - **Vehicle Classification for Trans Jakarta Advertising**
  
@@ -13,8 +12,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 - **Melampaui Produk Domestik Bruto**
   
-  A Jupyter Notebook project exploring factors beyond GDP, such as Gini Ratio and other parameters.
-
+  A Jupyter Notebook project exploring factors beyond Gross Domestic Product (GDP), such as Gini Ratio and other parameters.
 
 - **Saudi Used Cars Price Prediction**
   
