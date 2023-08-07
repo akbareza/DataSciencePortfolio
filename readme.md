@@ -4,11 +4,11 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 1. **Simple CRUD (Library Book Stock Study Case)**
  
-  A simple Create Read Update Delete (CRUD) application for managing a library book stock, built using Python.
+    A simple Create Read Update Delete (CRUD) application for managing a library book stock, built using Python.
 
 2. **Vehicle Classification for Trans Jakarta Advertising**
  
-  This project involves a comprehensive analysis of Trans Jakarta's advertising plan. Python is utilized for data preprocessing, while Tableau is used for effective data visualization.
+    This project involves a comprehensive analysis of Trans Jakarta's advertising plan. Python is utilized for data preprocessing, while Tableau is used for effective data visualization.
 
 3. **Melampaui Produk Domestik Bruto**
   
