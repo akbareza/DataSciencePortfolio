@@ -21,7 +21,7 @@ This notebook also implements data visualization techniques, including geo-locat
 
 ## Kaggle Project
 
-This project is also available on Kaggle at the following link: [Exploring Multidimensional Economic Indicators on Kaggle](https://www.kaggle.com/code/akbareza/melampaui-produk-domestik-bruto)
+This project is also available on Kaggle at the following link: [Melampaui Produk Domestik Bruto](https://www.kaggle.com/code/akbareza/melampaui-produk-domestik-bruto)
 
 Through this notebook, our goal is to demonstrate the significance of these multidimensional indicators in obtaining a more comprehensive understanding of a country's economic well-being. By going beyond GDP and examining factors such as economic inequality and regional disparities, we can develop more informed policies and strategies to promote inclusive and sustainable economic growth.
 
