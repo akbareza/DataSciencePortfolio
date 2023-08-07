@@ -25,5 +25,8 @@ To update a book, select option `[3]` from the menu. You could choose the book t
 To delete a book, select option `[4]` from the menu and  enter the index of the book as it appears on the list that you wish to delete.
 
 
-## Contact
-If you have any questions or feedback, please contact me at akbarezamuhammad10@gmail.com.
+## Let's Connect:
+- LinkedIn: [Akbareza Muhammad](https://www.linkedin.com/in/akbareza-muhammad/)
+- Email: akbarezamuhammad10@gmail.com
+
+Thank you for visiting my portfolio repository, and I hope you find these projects informative and indicative of my passion for data science!
