@@ -4,23 +4,23 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 1. **Simple CRUD (Library Book Stock Study Case)**
  
-    A simple Create Read Update Delete (CRUD) application for managing a library book stock, built using Python.
+    A simple **Create Read Update Delete** (CRUD) application for managing a library book stock, built using Python.
 
 2. **Vehicle Classification for Trans Jakarta Advertising**
  
-    This project involves a comprehensive analysis of Trans Jakarta's advertising plan. Python is utilized for data preprocessing, while Tableau is used for effective data visualization.
+    This project involves a comprehensive analysis of Trans Jakarta's advertising plan. Python is utilized for data preprocessing, while **Tableau** is used for effective data visualization.
 
 3. **Melampaui Produk Domestik Bruto**
   
-    A Jupyter Notebook project exploring factors beyond Gross Domestic Product (GDP), such as Gini Ratio and other parameters.
+    A Jupyter Notebook project **implementing data visualization**, exploring factors beyond Gross Domestic Product (GDP), such as Gini Ratio and other parameters, through charts and **geo-mapping**.
 
 4. **Saudi Used Cars Price Prediction**
   
-    Predicting used car prices in Saudi Arabia using machine learning models.
+    Predicting used car prices in Saudi Arabia using **machine learning models**.
 
-5.  **Simple Music Recommendation Systemk**
+5.  **Simple Music Recommendation System**
   
-    A basic music recommendation system built with Jupyter Notebook.
+    A basic music **recommendation system** built with Jupyter Notebook.
 
 Feel free to explore the projects and their corresponding Jupyter Notebooks or scripts to gain insights into my data science work. If you have any questions, feedback, or would like to discuss any aspect of these projects, please don't hesitate to reach out.
 
